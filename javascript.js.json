@@ -1,5 +1,5 @@
 { 
-  {
+ [ {
     "id": 1,
     "statement": "What is 'state' in React?",
     "options": [
@@ -71,6 +71,6 @@
       "It prevents state updates",
     ],
     "correctAnswer": "It allows you to perform actions after the state is updated",
-  },
+  },]
 
   }
