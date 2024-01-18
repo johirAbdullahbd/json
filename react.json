@@ -6,7 +6,7 @@
       "A local variable within a component",
       "A mechanism for storing and managing data in a component",
       "A React component lifecycle method",
-      "A function that updates the DOM",
+      "A function that updates the DOM"
     ],
     "correctAnswer": "A mechanism for storing and managing data in a component",
   },
@@ -17,7 +17,7 @@
       "A local variable within a component",
       "A mechanism for storing and managing data in a component",
       "A React component lifecycle method",
-      "A function that updates the DOM",
+      "A function that updates the DOM"
     ],
     "correctAnswer": "A mechanism for storing and managing data in a component",
   },
@@ -34,7 +34,7 @@
       "'state' is used for data that can change over time within a component, while 'props' are immutable data passed from a parent component",
       "'state' is used for data passed from a parent component, while 'props' are used for data that can change over time within a component",
       "'state' and 'props' are the same and can be used interchangeably",
-      "There is no difference between 'state' and 'props'",
+      "There is no difference between 'state' and 'props'"
     ],
     "correctAnswer":
       "'state' is used for data that can change over time within a component, while 'props' are immutable data passed from a parent component",
@@ -46,7 +46,7 @@
       "By directly modifying the state object",
       "By using the updateState method",
       "By calling this.state = newState;",
-      "By using the setState method",
+      "By using the setState method"
     ],
     "correctAnswer": "By using the setState method",
   },
@@ -57,7 +57,7 @@
       "To define component methods",
       "To update the DOM directly",
       "To handle events in the component",
-      "To update the state of a component and trigger a re-render",
+      "To update the state of a component and trigger a re-render"
     ],
     "correctAnswer": "To update the state of a component and trigger a re-render",
   },
@@ -68,7 +68,7 @@
       "It is required syntax for 'setState'",
       "It ensures the state is updated synchronously",
       "It allows you to perform actions after the state is updated",
-      "It prevents state updates",
+      "It prevents state updates"
     ],
     "correctAnswer": "It allows you to perform actions after the state is updated",
   }
