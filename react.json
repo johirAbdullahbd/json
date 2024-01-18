@@ -7,75 +7,75 @@
       {"b": "mechanism for storing and managing data in a component"},
       {"c":" React component lifecycle method"},
       {"d": "A function that updates the DOM "}
-  },
-    "correctAnswer": "A mechanism for storing and managing data in a component",
+    },
+    "correctAnswer": "A mechanism for storing and managing data in a component"
   },
   {
     "id": 1,
     "statement": "What is 'state' in React?",
     "options": {
-      {"A":"A local variable within a component"} ,
+       {"A":"A local variable within a component"} ,
        {"b": "mechanism for storing and managing data in a component"},
        {"c":" React component lifecycle method"},
        {"d": "A function that updates the DOM 2"}
-  },
-    "correctAnswer": "A mechanism for storing and managing data in a component",
+    },
+    "correctAnswer": "A mechanism for storing and managing data in a component"
   },
   {
     "id": 2,
     "statement": "How do you initialize state in a React class component?",
     "options": {
-      {"A":"A local variable within a component"} ,
+       {"A":"A local variable within a component"} ,
        {"b": "mechanism for storing and managing data in a component"},
        {"c":" React component lifecycle method"},
        {"d": "A function that updates the DOM 3"}
-  },
-    "correctAnswer": "this.state = initialState;",
+    },
+    "correctAnswer": "this.state = initialState;"
   },
   {
     "id": 3,
     "statement": "What is 'state' in React?",
     "options": {
-      {"A":"A local variable within a component"} ,
+       {"A":"A local variable within a component"} ,
        {"b": "mechanism for storing and managing data in a component"},
        {"c":" React component lifecycle method"},
        {"d": "A function that updates the DOM 4"}
-  },
+    },
     "correctAnswer":
-      "'state' is used for data that can change over time within a component, while 'props' are immutable data passed from a parent component",
+      "'state' is used for data that can change over time within a component, while 'props' are immutable data passed from a parent component"
   },
   {
     "id": 4,
     "statement": "How do you update the state in a React class component?",
     "options": {
-      {"A":"A local variable within a component"} ,
+       {"A":"A local variable within a component"} ,
        {"b": "mechanism for storing and managing data in a component"},
        {"c":" React component lifecycle method"},
        {"d": "A function that updates the DOM 5"}
-  },
-    "correctAnswer": "By using the setState method",
+    },
+    "correctAnswer": "By using the setState method"
   },
   {
     "id": 5,
     "statement": "What is the purpose of the 'setState' method in React?",
     "options": {
-      {"A":"A local variable within a component"} ,
+       {"A":"A local variable within a component"} ,
        {"b": "mechanism for storing and managing data in a component"},
        {"c":" React component lifecycle method"},
        {"d": "A function that updates the DOM6"}
-  },
-    "correctAnswer": "To update the state of a component and trigger a re-render",
+    },
+    "correctAnswer": "To update the state of a component and trigger a re-render"
   },
   {
     "id": 6,
     "statement": "What is the significance of using a callback function with 'setState'?",
     "options": {
-      {"A":"A local variable within a component"} ,
+       {"A":"A local variable within a component"} ,
        {"b": "mechanism for storing and managing data in a component"},
        {"c":" React component lifecycle method"},
        {"d": "A function that updates the DOM 7"}
-  },
-    "correctAnswer": "It allows you to perform actions after the state is updated",
+    },
+    "correctAnswer": "It allows you to perform actions after the state is updated"
   }
 ]
 
