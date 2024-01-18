@@ -14,7 +14,7 @@
   {
     "id": 2,
     "statement": "How do you initialize state in a React class component?",
-    "options": ["this.state = initialState;", "state = initialState;", "const state = useState(initialState);", "this.setState(initialState);"],
+    
     "correctAnswer": "this.state = initialState;",
   },
   {
