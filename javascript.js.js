@@ -1,6 +1,6 @@
 [
   {
-    userId: 1,
+    serId: 1,
     id: 1,
     title: "quidem molestiae enim"
   },
