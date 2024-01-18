@@ -1,4 +1,4 @@
-{"javascript":[
+[
   {
     "id": 1,
     "statement": "What is 'state' in React?",
@@ -35,7 +35,7 @@
   {
     "id": 3,
     "statement": "What is 'state' in React?",
-    "options": }
+    "options": {
       {"A":"A local variable within a component"} ,
        {"b": "mechanism for storing and managing data in a component"},
        {"c":" React component lifecycle method"},
@@ -78,4 +78,4 @@
     "correctAnswer": "It allows you to perform actions after the state is updated",
   }
 ]
-}
+
